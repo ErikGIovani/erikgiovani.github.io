@@ -1,0 +1,1 @@
+LottieInteractivity.create({mode:"scroll",player:'#tree',actions:[{visibility:[0,1],type:"seek",frames:[0,245],},]});

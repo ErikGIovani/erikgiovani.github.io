@@ -1,0 +1,1 @@
+$('[data-fancybox="gallery"]').fancybox({buttons:["zoom","fullScreen","close"],protect:true});
